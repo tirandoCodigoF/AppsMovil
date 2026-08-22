@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,tvg-logo="URL_DE_LA_IMAGEN" La Poderosa 100.5 FM Tlaxiaco
+#EXTINF:-1,La Poderosa 100.5 FM Tlaxiaco
 http://192.99.233.46:9924/stream
 #EXTINF:-1,Amor 95.3 FM
 https://19273.live.streamtheworld.com/XHSHFMAAC_SC
