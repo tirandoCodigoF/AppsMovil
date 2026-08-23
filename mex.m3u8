@@ -2,7 +2,7 @@
 #EXTINF:-1,La Poderosa 100.5 FM - Tlaxiaco
 https://192.99.233.46:9924/stream
 #EXTINF:-1,La Grandiosa 94.1 FM - Tlaxiaco
-https://sp3.servidorrprivado.com/8248/stream
+https://radiolagrandiosa.com/stream/tlaxiaco
 #EXTINF:-1,La Tlaxiaqueña 91.5 FM - Tlaxiaco
 https://51.81.185.143:8158/stream
 #EXTINF:-1,La Perla de la Mixteca 94.5 FM - Tlaxiaco
@@ -97,57 +97,47 @@ https://mdstrm.com/audio/672cfbc1fdabb2c0423a7067/icecast.audio
 https://cast6.my-control-panel.com/proxy/airelib1/stream
 
 
-
 #EXTINF:-1,Exa 101.3 FM - Tuxtepec
-
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXA_SC
 #EXTINF:-1,Globo 96.9 FM - Tuxtepec
-
+https://cast3.my-control-panel.com/proxy/universalfm/stream
 #EXTINF:-1,La Mejor 106.5 FM - Tuxtepec
-
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHXP_SC
 #EXTINF:-1,Azul FM 103.9 Lagunas - Tehuantepec
-
-#EXTINF:-1,Somos Uno Radio 106.9 FM - Tlacolula
-
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR24_S01AAC_SC
 #EXTINF:-1,La lider 99.1 FM - Tlacolula
+https://stream.zeno.fm/1ozriqxnwr0uv
+#EXTINF:-1,La Grandiosa 88.5 FM - Huajuapan
+https://radiolagrandiosa.com/stream/huajuapan
+#EXTINF:-1,La Grandiosa Grupera 104.9 FM - Juxtlahuaca
+https://radiolagrandiosa.com/stream/juxtlahuaca
+#EXTINF:-1,El Heraldo 97.7 FM - Oaxaca
+https://stream.radiojar.com/ce31v3yah8nwv
+#EXTINF:-1,Los Ojos del Cielo 106.9 FM - Juxtlahuaca
+https://radiolagrandiosa.com/stream/ojosdelcielo
+#EXTINF:-1,Radio Nahndia 107.9 FM - Villa de Flores
+https://radios.yanapak.org/nahndiafm
+#EXTINF:-1,Radio Comunitaria Jënpoj 107.9 FM - Tlahuitoltepec
+https://radios.mipanel.stream:6890/stream/1/
+#EXTINF:-1,La Estrella de Oaxaca 91.6
+https://server3.sit-mexico.com:2199/proxy/estrelladeoaxaca916?mp=/stream
+#EXTINF:-1,La Mejor 101.7 FM - Oaxaca
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHZB.mp3
+#EXTINF:-1,Radio Blaseñita Stream - Oaxaca
+https://canada1.reliastream.com/proxy/aramirez?mp=/stream/1/
+#EXTINF:-1,Exa 98.5 FM - Oaxaca
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHNR.mp3
+#EXTINF:-1,La Voz del Puerto 93.3 FM - Puerto Escondido
+https://sp2.servidorrprivado.com/9681/stream/1/
+
+
 
 #EXTINF:-1,Orbita Digital 106.1 FM - Juchitán
-
-#EXTINF:-1,La Grandiosa 98.9 Fm - Nochixtlan
-
-#EXTINF:-1,La Grandiosa 88.5 FM - Huajuapan
-
+#EXTINF:-1,Somos Uno Radio 106.9 FM - Tlacolula
 #EXTINF:-1,G-POP 99.1 FM - Juxtlahuaca
-
-#EXTINF:-1,La Grandiosa Grupera 104.9 FM - Juxtlahuaca
-
-#EXTINF:-1,El Heraldo 97.7 FM - Oaxaca
-
-#EXTINF:-1,Los Ojos del Cielo 106.9 FM - Juxtlahuaca
-
-#EXTINF:-1,Radio Nahndia 107.9 FM - Villa de Flores
-
+#EXTINF:-1,La Grandiosa 98.9 Fm - Nochixtlan
 #EXTINF:-1,Vox Love Station 90.1 FM - Juchitán 
-
-#EXTINF:-1,Radio Comunitaria Jënpoj 107.9 FM - Tlahuitoltepec
-
-
-#EXTINF:-1,La Estrella de Oaxaca 91.6
-http://5.79.86.14:8055/live
-#EXTINF:-1,La Mejor 101.7 FM - Oaxaca
-http://ororadio.serverroom.us:9142/stream/1/
-#EXTINF:-1,Radio Blaseñita Stream - Oaxaca
-http://158.69.227.214:8161/stream/
 #EXTINF:-1,Radio Formula 93.7 FM - Oaxaca
-http://ororadio3.serverroom.net:6778/stream/1/
-#EXTINF:-1,Exa 98.5 FM - Oaxaca
-http://162.244.80.31:4638/stream
-#EXTINF:-1,La Voz del Puerto 93.3 FM - Puerto Escondido
-http://sp2.servidorrprivado.com:9681//listen.pls?sid=1
-#EXTINF:-1,San Blas Atempa Stream - Tehuantepec
-http://158.69.227.214:8161/stream/1/
 #EXTINF:-1,La Ke Buena 90.5 FM - Matías Romero Oaxaca
-https://www.encuentroradiotv.com:8443/matias905.ogg
-
 #EXTINF:-1,ESTERO HUATULCO 103.1 FM - Huatulco
-
 #EXTINF:-1,Radio Crystal 102.3 FM - Huatulco
