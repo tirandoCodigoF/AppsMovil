@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="Mexico" tvg-id="CDMX" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/154/la-mejor-oaxaca.9b9fc0b8.png",La Mejor 90.7 FM
 https://18303.live.streamtheworld.com/XHTIM_SC
-#EXTINF:-1 group-title="Mexico" tvg-id="CDMX" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/AvrZwexREf.jpg",Amor 95.3 FM
+#EXTINF:-1 group-title="Mexico" tvg-id="CDMX" tvg-logo="",Amor 95.3 FM
 https://19273.live.streamtheworld.com/XHSHFMAAC_SC
 #EXTINF:-1 group-title="BAJA CALIFORNIA" tvg-id="MEXICALI" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/063/los-40-principales-mexicali.4ffb761b.jpg",Los 40 Mexicali
 https://14023.live.streamtheworld.com/LOS40_MEXICO2AAC_SC
