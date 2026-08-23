@@ -14,7 +14,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICOAA
 #EXTINF:-1,Los 40 Principales 89.7 FM - Oaxaca
 https:\/\/streaming.servicioswebmx.com\/8270\/stream
 #EXTINF:-1,La Mejor 101.7 FM - Oaxaca
-https://ororadio.serverroom.us:9142/stream/1/
+http://ororadio.serverroom.us:9142/stream/1/
 #EXTINF:-1,La Mexicana 94.9 FM - Oaxaca
 https://stream.zeno.fm/0foxzyrupdutv
 #EXTINF:-1,Stereo Uno 106.1 FM - Oaxaca
@@ -22,7 +22,7 @@ https://stream9.mexiserver.com/8112/stream
 #EXTINF:-1,Ke Buena 95.7 FM - Oaxaca
 https://playerservices.streamtheworld.com/api/livestream-redirect/KEBUENAAAC_SC
 #EXTINF:-1,Exa 98.5 FM - Oaxaca
-https://ororadio2.serverroom.us:4638/stream/1/
+http://ororadio2.serverroom.us:4638/stream/1/
 #EXTINF:-1,La Poderosa 100.1 FM - Oaxaca
 https://stream.zeno.fm/yg63h9ekvjhvv
 #EXTINF:-1,Retro 102.9 FM - Oaxaca
@@ -36,7 +36,7 @@ https://radioextremoguilaoaxaca.net/stream
 #EXTINF:-1,Exitos 88.2 Stream - Oaxaca
 http://node-15.zeno.fm/3gdc4vyvutzuv?rj-ttl=5&rj-tok=AAABeciLaG4A5eOzj3TCV8W9QA
 #EXTINF:-1,Radio Blaseñita Stream - Oaxaca
-http://158.69.227.214:8161/stream/1/
+http://158.69.227.214:8161/stream/
 #EXTINF:-1,Azul Cristal FM Stream - Oaxaca
 https://cento02.mipanelradio.com/proxy/impumex?mp=/;
 #EXTINF:-1,Radio Ciudad de Dios Stream - Oaxaca
@@ -56,7 +56,7 @@ https://sp3.servidorrprivado.com:10881/sid=1
 #EXTINF:-1,Bonita 95.1 FM Loma Bonita - Oaxaca
 http://stream-062.zeno.fm/05g7pygka3quv?zs=jDCbLt3FTzSt839HQbH7kA&rj-ttl=5&rj-tok=AAABedTx4yEAlyYCfnwBCXpgXg
 #EXTINF:-1,La Estrella de Oaxaca 91.6
-https://5.79.86.14:8055/live
+http://5.79.86.14:8055/live
 #EXTINF:-1,Estéreo Istmo 96.3 FM - Salina Cruz
 https://s2.mexside.net/8038/stream/1/
 #EXTINF:-1,Los 40 Principales 97.1 FM - Salina Cruz
@@ -66,13 +66,13 @@ https://stream9.mexiserver.com:8238//stream//1//
 #EXTINF:-1,Cortv Global 96.9 FM - Puerto Escondido
 https://sp3.servidorrprivado.com:10882/sid=1
 #EXTINF:-1,La Voz del Puerto 93.3 FM - Puerto Escondido
-https://sp2.servidorrprivado.com:9681//listen.pls?sid=1
+http://sp2.servidorrprivado.com:9681//listen.pls?sid=1
 #EXTINF:-1,Exa 101.3 FM - Tuxtepec
-http://22833.live.streamtheworld.com/XHEXA_SC
+
 #EXTINF:-1,Globo 96.9 FM - Tuxtepec
-http://26363.live.streamtheworld.com/LOS40_MEXICOAAC.aac
+
 #EXTINF:-1,La Mejor 106.5 FM - Tuxtepec
-http://19293.live.streamtheworld.com/XHXP_SC
+
 #EXTINF:-1,La Voz del Pacifico Sur 102.3 FM - Pochutla
 https://stream.zeno.fm/9liwkbahprctv
 #EXTINF:-1,La Voz del Angel 99.9 FM 650 AM - Pochutla
@@ -82,21 +82,21 @@ https://stream.zeno.fm/tp1p7qxx5rhvv
 #EXTINF:-1,San Blas Atempa Stream - Tehuantepec
 http://158.69.227.214:8161/stream/1/
 #EXTINF:-1,Azul FM 103.9 Lagunas - Tehuantepec
-http://23243.live.streamtheworld.com/ACIR24_S01AAC_SC
+
 #EXTINF:-1,La Ke Buena 90.5 FM - Matías Romero Oaxaca
 https://www.encuentroradiotv.com:8443/matias905.ogg
 #EXTINF:-1,Somos Uno Radio 106.9 FM - Tlacolula
-https://1c.ncomputers.org:8000/somosunoradio
+
 #EXTINF:-1,La lider 99.1 FM - Tlacolula
-https://51.81.49.98:8374/;
+
 #EXTINF:-1,Orbita Digital 106.1 FM - Juchitán
-https://167.114.116.223:9063/
+
 #EXTINF:-1,La Exitosa De Zaragoza 93.1 FM - Juchitan
 http://node-27.zeno.fm/5cb8ze47n0quv?rj-ttl=5&rj-tok=AAABecQD29MARc606zpgxdnhKw
 #EXTINF:-1,Vox Love Station 90.1 FM - Juchitán 
-http://www.encuentroradiotv.com:8443/juchitan901.ogg
+
 #EXTINF:-1,Radio Comunitaria Jënpoj 107.9 FM - Tlahuitoltepec
-https://espora.org:8000/jenpojradio
+
 #EXTINF:-1,Hits 96.5 FM - Nochixtlan
 https://stream.zeno.fm/1agvxmine55vv
 #EXTINF:-1,La Grandiosa 98.9 Fm - Nochixtlan
@@ -139,7 +139,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XEOU.mp3
 
 #EXTINF:-1,La Mas Perrona 105.3 FM - Huautla
 https://sp3.servidorrprivado.com/8160/stream
-
 #EXTINF:-1,Bonita 95.1 FM Loma Bonita Oaxaca
 https://stream.zeno.fm/05g7pygka3quv
 #EXTINF:-1,La Lupe 88.9 FM - Oaxaca
