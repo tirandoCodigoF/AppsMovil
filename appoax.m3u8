@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1group-title="Tlaxiaco - Oaxaca" tvg-logo="",La Poderosa 100.5 FM
+#EXTINF:-1 group-title="Tlaxiaco - Oaxaca" tvg-logo="https://play-lh.googleusercontent.com/JVY_VS5Iq3xxPBwu1MC_C54YplQc-HIrPp1D7swwWcl093xMnAQnH1FxUaTCO4cHKQ4YD6eIJgy46xxkyilVKQ=w240-h480-rw",La Poderosa 100.5 FM
 https://192.99.233.46:9924/stream
-#EXTINF:-1,La Grandiosa 94.1 FM - Tlaxiaco
+#EXTINF:-1 group-title="Tlaxiaco - Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc6uaK2U7SCJLFeOuK--vtoG1l0mwhbezCU_DA97b5kwAxC_n6o5H3PZ4",La Grandiosa 94.1 FM
 https://radiolagrandiosa.com/stream/tlaxiaco
-#EXTINF:-1,La Tlaxiaqueña 91.5 FM - Tlaxiaco
+#EXTINF:-1 group-title="Tlaxiaco - Oaxaca" tvg-logo="https://play-lh.googleusercontent.com/OoZ0NERs2YYulOcDOxNrZq89odR3LCtuRTDD2XUd5VA6eAa4c5-8x2agWeTU28uk1ZngaUtXbM275ghLw3pwK5Q",La Tlaxiaqueña 91.5 FM
 https://51.81.185.143:8158/stream
-#EXTINF:-1,La Perla de la Mixteca 94.5 FM - Tlaxiaco
+#EXTINF:-1 group-title="Tlaxiaco - Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSohZL6rhKAXzMGzKDPjGycsi0-VOgX2WNz_umb_oQ3Zfb-4tmFINoQ3Bzq" ,La Perla de la Mixteca 94.5 FM
 https://stream9.mexiserver.com:7083/;
-#EXTINF:-1,XETLA 95.9 FM - Tlaxiaco
+#EXTINF:-1 group-title="Tlaxiaco - Oaxaca" tvg-logo="https://play-lh.googleusercontent.com/dTU4ycO_etl_eYmWswsk1pvHNlFsflfW3yKVxRsQfhlIRSFYHuN3NMRGZVeHIX8Q2ZTSv-qYPU7bpwpKu_q05Q",XETLA 95.9 FM
 https://radios.inpi.gob.mx:8080/xetla
-#EXTINF:-1,Los 40 Principales 101.7 FM - CDMX
+#EXTINF:-1 group-title="CDMX - Mexico" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/846/los-40-principales-mexico.b3eabffc.jpg" ,Los 40 Principales 101.7 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICOAAC.aac
-#EXTINF:-1,Los 40 Principales 89.7 FM - Oaxaca
+#EXTINF:-1 group-title="Oaxaca" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/028/amor-897-fm.a39e9134.jpg" ,Los 40 Principales 89.7 FM
 https:\/\/streaming.servicioswebmx.com\/8270\/stream
-#EXTINF:-1,La Mexicana 94.9 FM - Oaxaca
+#EXTINF:-1group-title="Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa0kdCoVAi5JDEP6OC3CVFQg18Hbr1DM9fLBLQWrHdf6TnuD_sDf6hYNyp",La Mexicana 94.9 FM
 https://stream.zeno.fm/0foxzyrupdutv
 #EXTINF:-1,Stereo Uno 106.1 FM - Oaxaca
 https://stream9.mexiserver.com/8112/stream
