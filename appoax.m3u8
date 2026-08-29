@@ -13,51 +13,51 @@ https://radios.inpi.gob.mx:8080/xetla
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICOAAC.aac
 #EXTINF:-1 group-title="Oaxaca" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/028/amor-897-fm.a39e9134.jpg" ,Los 40 Principales 89.7 FM
 https:\/\/streaming.servicioswebmx.com\/8270\/stream
-#EXTINF:-1group-title="Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa0kdCoVAi5JDEP6OC3CVFQg18Hbr1DM9fLBLQWrHdf6TnuD_sDf6hYNyp",La Mexicana 94.9 FM
+#EXTINF:-1 group-title="Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa0kdCoVAi5JDEP6OC3CVFQg18Hbr1DM9fLBLQWrHdf6TnuD_sDf6hYNyp",La Mexicana 94.9 FM
 https://stream.zeno.fm/0foxzyrupdutv
-#EXTINF:-1,Stereo Uno 106.1 FM - Oaxaca
+#EXTINF:-1 group-title="Oaxaca" tvg-logo="",Stereo Uno 106.1 FM
 https://stream9.mexiserver.com/8112/stream
-#EXTINF:-1,Ke Buena 95.7 FM - Oaxaca
+#EXTINF:-1 group-title="Oaxaca" tvg-logo="",Ke Buena 95.7 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KEBUENAAAC_SC
-#EXTINF:-1,La Poderosa 100.1 FM - Oaxaca
+#EXTINF:-1 group-title="Oaxaca" tvg-logo="",La Poderosa 100.1 FM
 https://stream.zeno.fm/yg63h9ekvjhvv
-#EXTINF:-1,Retro 102.9 FM - Oaxaca
+#EXTINF:-1 group-title="Oaxaca" tvg-logo="",Retro 102.9 FM
 https://stream.zeno.fm/r82r6qbeo9kuv
-#EXTINF:-1,Amor 89.7 FM - Oaxaca
+#EXTINF:-1 group-title="Oaxaca" tvg-logo="",Amor 89.7 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHSHFMAAC.aac
-#EXTINF:-1,Cortv Oaxaqueña Radio 680 AM - Oaxaca
+#EXTINF:-1 group-title="Oaxaca" tvg-logo="",Cortv Oaxaqueña Radio 680 AM
 https://sp3.servidorrprivado.com:10881/sid=1
-#EXTINF:-1,Radio Extremo Guila Stream - Oaxaca
+#EXTINF:-1 group-title="Oaxaca" tvg-logo="",Radio Extremo Guila Stream
 https://radioextremoguilaoaxaca.net/stream
-#EXTINF:-1,Exitos 88.2 Stream - Oaxaca
+#EXTINF:-1 group-title="Oaxaca" tvg-logo="",Exitos 88.2 Stream
 http://node-15.zeno.fm/3gdc4vyvutzuv?rj-ttl=5&rj-tok=AAABeciLaG4A5eOzj3TCV8W9QA
-#EXTINF:-1,Azul Cristal FM Stream - Oaxaca
+#EXTINF:-1 group-title="Oaxaca" tvg-logo="",Azul Cristal FM Stream
 https://cento02.mipanelradio.com/proxy/impumex?mp=/;
-#EXTINF:-1,Radio Ciudad de Dios Stream - Oaxaca
+#EXTINF:-1 group-title="Oaxaca" tvg-logo="",Radio Ciudad de Dios Stream
 https://159.69.43.96:9956/stream/1/
-#EXTINF:-1,Oreja FM 105.7 FM 990 AM - Oaxaca
+#EXTINF:-1 group-title="Oaxaca" tvg-logo="",Oreja FM 105.7 FM 990 AM
 https://stream.zeno.fm/5yaxrwzln6ouv
-#EXTINF:-1,Encuentro Radio 95.7 FM - Oaxaca
+#EXTINF:-1 group-title="Oaxaca" tvg-logo="",Encuentro Radio 95.7 FM
 https://www.encuentroradiotv.com:8443/oaxaca957.mp3
-#EXTINF:-1,Encuentro W Radio 95.7 FM - Oaxaca
+#EXTINF:-1 group-title="Oaxaca" tvg-logo="",Encuentro W Radio 95.7 FM
 https://www.encuentroradiotv.com:8443/oaxaca957.mp3
 #EXTINF:-1,Estereo Radical 87.9 FM - Oaxaca
 https://node-26.zeno.fm/mmfcu40gqeruv?rj-ttl=5&rj-tok=AAABecQP0u0AEYFZDJwduiPwhA
-#EXTINF:-1,La Mas Adictiva 106.5 FM - Oaxaca
+#EXTINF:-1 group-title="Oaxaca" tvg-logo="",La Mas Adictiva 106.5 FM
 https://sp3.servidorrprivado.com:10881/sid=1
-#EXTINF:-1,Bonita 95.1 FM Loma Bonita - Oaxaca
+#EXTINF:-1 group-title="Oaxaca" tvg-logo="",Bonita 95.1 FM Loma Bonita
 http://stream-062.zeno.fm/05g7pygka3quv?zs=jDCbLt3FTzSt839HQbH7kA&rj-ttl=5&rj-tok=AAABedTx4yEAlyYCfnwBCXpgXg
-#EXTINF:-1,Estéreo Istmo 96.3 FM - Salina Cruz
+#EXTINF:-1 group-title="Salina Cruz - Oaxaca" tvg-logo="",Estéreo Istmo 96.3 FM
 https://s2.mexside.net/8038/stream/1/
-#EXTINF:-1,Los 40 Principales 97.1 FM - Salina Cruz
+#EXTINF:-1 group-title="Salina Cruz - Oaxaca" tvg-logo="",Los 40 Principales 97.1 FM
 https://www.encuentroradiotv.com:8443/salinacruz971.ogg
-#EXTINF:-1,La mejor 94.1 FM - Puerto Escondido
+#EXTINF:-1 group-title="Puerto Escondido - Oaxaca" tvg-logo="",La mejor 94.1 FM
 https://stream9.mexiserver.com:8238//stream//1//
-#EXTINF:-1,Cortv Global 96.9 FM - Puerto Escondido
+#EXTINF:-1group-title="Puerto Escondido - Oaxaca" tvg-logo="",Cortv Global 96.9 FM
 https://sp3.servidorrprivado.com:10882/sid=1
-#EXTINF:-1,La Voz del Pacifico Sur 102.3 FM - Pochutla
+#EXTINF:-1 group-title="Pochutla - Oaxaca" tvg-logo="",La Voz del Pacifico Sur 102.3 FM
 https://stream.zeno.fm/9liwkbahprctv
-#EXTINF:-1,La Voz del Angel 99.9 FM 650 AM - Pochutla
+#EXTINF:-1 group-title="Pochutla - Oaxaca" tvg-logo="",La Voz del Angel 99.9 FM 650 AM
 https://stream.zeno.fm/9liwkbahprctv
 #EXTINF:-1,La Poderosa 98.1 FM - Tehuantepec
 https://stream.zeno.fm/tp1p7qxx5rhvv
