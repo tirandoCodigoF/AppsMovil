@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Tlaxiaco - Oaxaca" tvg-logo="https://play-lh.googleusercontent.com/JVY_VS5Iq3xxPBwu1MC_C54YplQc-HIrPp1D7swwWcl093xMnAQnH1FxUaTCO4cHKQ4YD6eIJgy46xxkyilVKQ=w240-h480-rw",La Poderosa 100.5 FM
 https://192.99.233.46:9924/stream
-https://tv.radiohosting.online:9924/stream
 
 #EXTINF:-1 group-title="Tlaxiaco - Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc6uaK2U7SCJLFeOuK--vtoG1l0mwhbezCU_DA97b5kwAxC_n6o5H3PZ4",La Grandiosa 94.1 FM
 https://radiolagrandiosa.com/stream/tlaxiaco
