@@ -1,143 +1,211 @@
 #EXTM3U
 #EXTINF:-1 group-title="Tlaxiaco - Oaxaca" tvg-logo="https://play-lh.googleusercontent.com/JVY_VS5Iq3xxPBwu1MC_C54YplQc-HIrPp1D7swwWcl093xMnAQnH1FxUaTCO4cHKQ4YD6eIJgy46xxkyilVKQ=w240-h480-rw",La Poderosa 100.5 FM
 https://192.99.233.46:9924/stream
+
 #EXTINF:-1 group-title="Tlaxiaco - Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc6uaK2U7SCJLFeOuK--vtoG1l0mwhbezCU_DA97b5kwAxC_n6o5H3PZ4",La Grandiosa 94.1 FM
 https://radiolagrandiosa.com/stream/tlaxiaco
+
 #EXTINF:-1 group-title="Tlaxiaco - Oaxaca" tvg-logo="https://play-lh.googleusercontent.com/OoZ0NERs2YYulOcDOxNrZq89odR3LCtuRTDD2XUd5VA6eAa4c5-8x2agWeTU28uk1ZngaUtXbM275ghLw3pwK5Q",La Tlaxiaqueña 91.5 FM
 https://51.81.185.143:8158/stream
+
 #EXTINF:-1 group-title="Tlaxiaco - Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSohZL6rhKAXzMGzKDPjGycsi0-VOgX2WNz_umb_oQ3Zfb-4tmFINoQ3Bzq" ,La Perla de la Mixteca 94.5 FM
 https://stream9.mexiserver.com:7083/;
+
 #EXTINF:-1 group-title="Tlaxiaco - Oaxaca" tvg-logo="https://play-lh.googleusercontent.com/dTU4ycO_etl_eYmWswsk1pvHNlFsflfW3yKVxRsQfhlIRSFYHuN3NMRGZVeHIX8Q2ZTSv-qYPU7bpwpKu_q05Q",XETLA 95.9 FM
 https://radios.inpi.gob.mx:8080/xetla
+
 #EXTINF:-1 group-title="CDMX - Mexico" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/846/los-40-principales-mexico.b3eabffc.jpg" ,Los 40 Principales 101.7 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICOAAC.aac
+
 #EXTINF:-1 group-title="Oaxaca" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/028/amor-897-fm.a39e9134.jpg" ,Los 40 Principales 89.7 FM
 https:\/\/streaming.servicioswebmx.com\/8270\/stream
+
 #EXTINF:-1 group-title="Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa0kdCoVAi5JDEP6OC3CVFQg18Hbr1DM9fLBLQWrHdf6TnuD_sDf6hYNyp",La Mexicana 94.9 FM
 https://stream.zeno.fm/0foxzyrupdutv
-#EXTINF:-1 group-title="Oaxaca" tvg-logo="",Stereo Uno 106.1 FM
+
+#EXTINF:-1 group-title="Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSzYFa5YXM01cbTHVoLLF_wK27juqeDQkKpjgI99s6jQ",Stereo Uno 106.1 FM
 https://stream9.mexiserver.com/8112/stream
-#EXTINF:-1 group-title="Oaxaca" tvg-logo="",Ke Buena 95.7 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/KEBUENAAAC_SC
-#EXTINF:-1 group-title="Oaxaca" tvg-logo="",La Poderosa 100.1 FM
+
+#EXTINF:-1 group-title="Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Wl8QexCnkTA3KUSjmGv3yNPrz2Sfih7_UxA2Y2VZMgj3sGBvBJDfbWAc",Ke Buena 89.7 FM
+https://streaming.servicioswebmx.com/8270/stream
+
+#EXTINF:-1 group-title="Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYLK6PtI9nK4PbIDfj8mvlj863xa3fg0ulryRS-sFYvrLF-kumGxEhLr0",La Poderosa 100.1 FM
 https://stream.zeno.fm/yg63h9ekvjhvv
-#EXTINF:-1 group-title="Oaxaca" tvg-logo="",Retro 102.9 FM
+
+#EXTINF:-1 group-title="Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGYmSRtcd5QvliMIl5r5p7xiUGEK4q9NL5llaHq7LI0k4Mqfynq--d1naa",Retro 102.9 FM
 https://stream.zeno.fm/r82r6qbeo9kuv
-#EXTINF:-1 group-title="Oaxaca" tvg-logo="",Amor 89.7 FM
+
+#EXTINF:-1 group-title="Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ33BDUTzEuypVYP0HAqt2i6MxF77hoYP7IByTXq9E41VbXzNx4AYqTjlw",Amor 89.7 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHSHFMAAC.aac
-#EXTINF:-1 group-title="Oaxaca" tvg-logo="",Cortv Oaxaqueña Radio 680 AM
+
+#EXTINF:-1 group-title="Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkXg0C2CNuIvURHRkyp4dJb5bIO2np2OZjGVJEcSqx1JJ83QoGlgVhF0I7",Oaxaqueña Radio 680 AM
 https://sp3.servidorrprivado.com:10881/sid=1
-#EXTINF:-1 group-title="Oaxaca" tvg-logo="",Radio Extremo Guila Stream
+
+#EXTINF:-1 group-title="Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0H6gy2pZJF0ufjpOcNyywhyu5NNDJgKrXKmAosAEcpQ",Radio Extremo Guila Stream
 https://radioextremoguilaoaxaca.net/stream
-#EXTINF:-1 group-title="Oaxaca" tvg-logo="",Exitos 88.2 Stream
+
+#EXTINF:-1 group-title="Oaxaca" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/992/solo-exitos-882-fm.43da4598.jpg",Exitos 88.2 Stream
 http://node-15.zeno.fm/3gdc4vyvutzuv?rj-ttl=5&rj-tok=AAABeciLaG4A5eOzj3TCV8W9QA
-#EXTINF:-1 group-title="Oaxaca" tvg-logo="",Azul Cristal FM Stream
+
+#EXTINF:-1 group-title="Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpsGLVDKwFKoJo6HZveuDrz81NyBjqTvZr4nklWzEi3Q",Azul Cristal FM Stream
 https://cento02.mipanelradio.com/proxy/impumex?mp=/;
-#EXTINF:-1 group-title="Oaxaca" tvg-logo="",Radio Ciudad de Dios Stream
+
+#EXTINF:-1 group-title="Oaxaca" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/52359.v12.png",Radio Ciudad de Dios Stream
 https://159.69.43.96:9956/stream/1/
-#EXTINF:-1 group-title="Oaxaca" tvg-logo="",Oreja FM 105.7 FM 990 AM
+
+#EXTINF:-1 group-title="Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP5-fXgjwCJSAHknc8ir83aHriqap-6zr5XhfypuCtqZ5R1CTFjOn59qs",Oreja FM 105.7
 https://stream.zeno.fm/5yaxrwzln6ouv
-#EXTINF:-1 group-title="Oaxaca" tvg-logo="",Encuentro Radio 95.7 FM
+
+#EXTINF:-1 group-title="Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHGDJNGHyvRTCiD_L3PUMKwfZhwBpWVkPt9NuWeoCXFfngK4ZpqPeY_z8I",Encuentro W Radio 95.7 FM
 https://www.encuentroradiotv.com:8443/oaxaca957.mp3
-#EXTINF:-1 group-title="Oaxaca" tvg-logo="",Encuentro W Radio 95.7 FM
-https://www.encuentroradiotv.com:8443/oaxaca957.mp3
-#EXTINF:-1,Estereo Radical 87.9 FM - Oaxaca
+
+#EXTINF:-1 group-title="Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiEsQ2i50KSIPvJo6SUscN6cph_uexPrRE8vNfEdkX",Estereo Radical 87.9 FM
 https://node-26.zeno.fm/mmfcu40gqeruv?rj-ttl=5&rj-tok=AAABecQP0u0AEYFZDJwduiPwhA
-#EXTINF:-1 group-title="Oaxaca" tvg-logo="",La Mas Adictiva 106.5 FM
+
+#EXTINF:-1 group-title="Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPWEIVtwACbKRql-OuMuF894RjhTpnlcCB2kxd5Kr3rA",La Mas Adictiva 106.5 FM
 https://sp3.servidorrprivado.com:10881/sid=1
-#EXTINF:-1 group-title="Oaxaca" tvg-logo="",Bonita 95.1 FM Loma Bonita
-http://stream-062.zeno.fm/05g7pygka3quv?zs=jDCbLt3FTzSt839HQbH7kA&rj-ttl=5&rj-tok=AAABedTx4yEAlyYCfnwBCXpgXg
-#EXTINF:-1 group-title="Salina Cruz - Oaxaca" tvg-logo="",Estéreo Istmo 96.3 FM
-https://s2.mexside.net/8038/stream/1/
-#EXTINF:-1 group-title="Salina Cruz - Oaxaca" tvg-logo="",Los 40 Principales 97.1 FM
-https://www.encuentroradiotv.com:8443/salinacruz971.ogg
-#EXTINF:-1 group-title="Puerto Escondido - Oaxaca" tvg-logo="",La mejor 94.1 FM
-https://stream9.mexiserver.com:8238//stream//1//
-#EXTINF:-1group-title="Puerto Escondido - Oaxaca" tvg-logo="",Cortv Global 96.9 FM
-https://sp3.servidorrprivado.com:10882/sid=1
-#EXTINF:-1 group-title="Pochutla - Oaxaca" tvg-logo="",La Voz del Pacifico Sur 102.3 FM
-https://stream.zeno.fm/9liwkbahprctv
-#EXTINF:-1 group-title="Pochutla - Oaxaca" tvg-logo="",La Voz del Angel 99.9 FM 650 AM
-https://stream.zeno.fm/9liwkbahprctv
-#EXTINF:-1,La Poderosa 98.1 FM - Tehuantepec
-https://stream.zeno.fm/tp1p7qxx5rhvv
-#EXTINF:-1,La Exitosa De Zaragoza 93.1 FM - Juchitan
-http://node-27.zeno.fm/5cb8ze47n0quv?rj-ttl=5&rj-tok=AAABecQD29MARc606zpgxdnhKw
-#EXTINF:-1,Hits 96.5 FM - Nochixtlan
-https://stream.zeno.fm/1agvxmine55vv
-#EXTINF:-1,La Santanera 102.5 FM - Sola de Vega
-https://stream.zeno.fm/s8fs10tfy4zuv
-#EXTINF:-1,La Voz De Guila 102.7 FM - San Pablo Guila
-http://node-12.zeno.fm/bygfp54sd6quv.aac?rj-ttl=5&rj-tok=AAABecPe--cAyqG1fJbx5KFuYQ
-#EXTINF:-1,Radio Mix Stream - Chalcatongo
-https://node-04.zeno.fm/rdm8nt8ptqruv?rj-ttl=5&rj-tok=AAABecQ3POUAKl14wk-cmHNqPQ
-#EXTINF:-1,La Exitosa 90.5 FM - Chalcatongo
-https://node-11.zeno.fm/935vn7uk21zuv.aac?rj-ttl=5&rj-tok=AAABecRFmA0AcUrEZT-seDEU0g
-#EXTINF:-1,La Favorita 88.1 Fm - Chalcatongo
-https://stream9.mexiserver.com/8096/stream
-#EXTINF:-1,Radio Ranchito 88.2 - Chalcatongo
-https://node-20.zeno.fm/4pkxazmv0qruv?rj-ttl=5&rj-tok=AAABecSUDdwAMgiW0uovoyZDvA
-#EXTINF:-1,La Rancherita 88.2 - Chalcatongo
-https://node-21.zeno.fm/kbyc2ynm3qruv?rj-ttl=5&rj-tok=AAABecSdDNkAP1W6rZMOT6guOg
-#EXTINF:-1,El Show Del Guacamaya - Chalcatongo
-https://node-32.zeno.fm/s8fd5vm5fm0uv?rj-ttl=5&rj-tok=AAABecg64hgAv9hwSkLicepWjA
-#EXTINF:-1,E RADIO Radio Educación Stream
-https://s2.mexside.net/8176/stream
-#EXTINF:-1,HITS 100.1 FM - Huajuapan
-https://stream.zeno.fm/1ozriqxnwr0uv
-#EXTINF:-1,La Mejor 105.3 FM - Huajuapan
-https://playerservices.streamtheworld.com/api/livestream-redirect/XEOU.mp3
-#EXTINF:-1,La Mas Perrona 105.3 FM - Huautla
-https://sp3.servidorrprivado.com/8160/stream
-#EXTINF:-1,Bonita 95.1 FM Loma Bonita Oaxaca
+
+#EXTINF:-1 group-title="Loma Bonita - Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTdw95BaKN-wvLMlqT1sRwiNDHwoeyu-Yzao8h4EjrA",Bonita 95.1 FM
 https://stream.zeno.fm/05g7pygka3quv
-#EXTINF:-1,La Lupe 88.9 FM - Oaxaca
+
+#EXTINF:-1 group-title="Salina Cruz - Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOU7U9uOnTmDWwAgDvCC0p7YxuyDQTgK7KeNEoLZDyJQ",Estéreo Istmo 96.3 FM
+https://s2.mexside.net/8038/stream/1/
+
+#EXTINF:-1 group-title="Salina Cruz - Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlLmQzzyvHiId2-lQjAC-G3uxizzHf6rf2hz-BDFgMSA",Los 40 Principales 97.1 FM
+https://www.encuentroradiotv.com:8443/salinacruz971.ogg
+
+#EXTINF:-1 group-title="Puerto Escondido - Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuU4y57-LPrPcvCbam08a1qAmcccIAvtRyaKwu-wNTMWSURFJnsdEJVbc",La mejor 94.1 FM
+https://stream9.mexiserver.com:8238//stream//1//
+
+#EXTINF:-1group-title="Puerto Escondido - Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3148Ypv9bfB5MSFrtI5qqtLggThqGXO48_hCpuHGAayOEYZmWWeqtBp0n",Cortv Global 96.9 FM
+https://sp3.servidorrprivado.com:10882/sid=1
+
+#EXTINF:-1 group-title="Pochutla - Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaTczb5nnLTqzAKLmiLlw1jI1Mx4o4pd83o35Pbof2aA",La Voz del Pacifico Sur 102.3 FM
+https://stream.zeno.fm/9liwkbahprctv
+
+#EXTINF:-1 group-title="Pochutla - Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEKhrwTIiges4fjZamBpC-ZHnla-1zXwgR_6XuPisNOA",La Voz del Angel 99.9 FM
+https://stream.zeno.fm/9liwkbahprctv
+
+#EXTINF:-1 group-title="Tehuantepec - Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiO9mmMZTy_XFbhYYdhD9QI7VpqU1qjtvVxj-rTsWtxA",La Poderosa 98.1 FM
+https://stream.zeno.fm/tp1p7qxx5rhvv
+
+#EXTINF:-1 group-title="Juchitan - Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTrJ5kvgIhoi4WfE5OxcpLxUIe35pzjgL5T3JD3pahpw",La Exitosa De Zaragoza 93.1 FM
+http://node-27.zeno.fm/5cb8ze47n0quv?rj-ttl=5&rj-tok=AAABecQD29MARc606zpgxdnhKw
+
+#EXTINF:-1group-title="Nochixtlan - Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiOyn0WQl2skUIfqveO0R40GznN_lrbKCLNTfuUUKh7g",Hits 96.5 FM
+https://stream.zeno.fm/1agvxmine55vv
+
+#EXTINF:-1 group-title="Sola de Vega - Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-KMRGogtzWC0PNyo7fr8iVQTsjeSENOqGeLi-tIfSsg",La Santanera 102.5 FM
+https://stream.zeno.fm/s8fs10tfy4zuv
+
+#EXTINF:-1 group-title="San Pablo Guila - Oaxaca" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/79808.v6.png",La Voz De Guila 102.7 FM
+http://node-12.zeno.fm/bygfp54sd6quv.aac?rj-ttl=5&rj-tok=AAABecPe--cAyqG1fJbx5KFuYQ
+
+#EXTINF:-1group-title="Chalcatongo - Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqlAe2AzeJTKigKadjTdndciFRdAKnvWxCLga3G6l7rGBbjeRJaMcYB4" ,Radio Mix Stream
+https://node-04.zeno.fm/rdm8nt8ptqruv?rj-ttl=5&rj-tok=AAABecQ3POUAKl14wk-cmHNqPQ
+
+#EXTINF:-1 group-title="Chalcatongo - Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSygyPSGhU7qu2V-KG_K4KLwOVNiK0cPz16mZQ7tbf-OA",La Exitosa 90.5 FM
+https://node-11.zeno.fm/935vn7uk21zuv.aac?rj-ttl=5&rj-tok=AAABecRFmA0AcUrEZT-seDEU0g
+
+#EXTINF:-1 group-title="Chalcatongo - Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ6JOb2-Q8LXVFF6FibG8r9xB2x1OVHSG6e9Jrd3fjVF0IyUzkFceozGc",La Favorita 88.1 Fm
+https://stream9.mexiserver.com/8096/stream
+
+#EXTINF:-1 group-title="Chalcatongo - Oaxaca" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/053/radio-ranchito-882.d869835c.jpg",Radio Ranchito 88.2
+https://node-20.zeno.fm/4pkxazmv0qruv?rj-ttl=5&rj-tok=AAABecSUDdwAMgiW0uovoyZDvA
+
+#EXTINF:-1 group-title="Chalcatongo - Oaxaca" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/83695.v5.png",La Rancherita 88.2
+https://node-21.zeno.fm/kbyc2ynm3qruv?rj-ttl=5&rj-tok=AAABecSdDNkAP1W6rZMOT6guOg
+
+#EXTINF:-1 group-title="Chalcatongo - Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDCLrYqEeB4o-1VkHvqjHUqnS7cVhSRiCpKGTaj08nIbMjlue7x6amkFo",El Show Del Guacamaya
+https://node-32.zeno.fm/s8fd5vm5fm0uv?rj-ttl=5&rj-tok=AAABecg64hgAv9hwSkLicepWjA
+
+#EXTINF:-1 group-title="Oaxaca" tvg-logo="https://www.oaxaca.gob.mx/ieepo/wp-content/uploads/sites/75/2020/04/reducacion.jpg",E RADIO Radio Educación Stream
+https://s2.mexside.net/8176/stream
+
+#EXTINF:-1 group-title="Huajuapan - Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTwcg4IYXn3k7_-awpp9ykdZFEuaM7e3anKafoIPT20A",HITS 100.1 FM
+https://stream.zeno.fm/1ozriqxnwr0uv
+
+#EXTINF:-1 group-title="Huajuapan - Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPS6_0MMgCpUik_g5P1zo9aCanfBcGj1YWHzqM33HvBQEhJo6AwjIUrR4",La Mejor 105.3 FM 
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEOU.mp3
+
+#EXTINF:-1 group-title="Huautla - Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMDLCfQE9dvR00cfzjDV_K3wEpIVLezonoNQdc1SzEdLWb-gVg0U-NpbLd",La Mas Perrona 105.3 FM
+https://sp3.servidorrprivado.com/8160/stream
+
+#EXTINF:-1 group-title="Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2h7sbFvayqo5SInh6FcCUIfWjeeszEMWyq2TclPwiyw",La Lupe 88.9 FM
 https://mdstrm.com/audio/672cfbc1fdabb2c0423a7067/icecast.audio
-#EXTINF:-1,Aire Libre 102.1 FM - Oaxaca
+
+#EXTINF:-1 group-title="Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBNwLFNkeSB27OYwrCKkp96lqgvw59_Eb1fHDUW0p75vrF4L2QuQx_0Ys",Aire Libre 102.1 FM
 https://cast6.my-control-panel.com/proxy/airelib1/stream
 
 
-#EXTINF:-1,Exa 101.3 FM - Tuxtepec
+#EXTINF:-1 group-title="Tuxtepec - Oaxaca" tvg-logo="",Exa 101.3 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXA_SC
-#EXTINF:-1,Globo 96.9 FM - Tuxtepec
+
+#EXTINF:-1 group-title="Tuxtepec - Oaxaca" tvg-logo="",Globo 96.9 FM
 https://cast3.my-control-panel.com/proxy/universalfm/stream
-#EXTINF:-1,La Mejor 106.5 FM - Tuxtepec
+
+#EXTINF:-1 group-title="Tuxtepec - Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmoBfo_sla5Gh1dSa_qf3wl9FdiKFUJMgfF0YOR8zfGYExBcYI7kFichuc",La Mejor 106.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHXP_SC
-#EXTINF:-1,Azul FM 103.9 Lagunas - Tehuantepec
+
+#EXTINF:-1 group-title="Tehuantepec - Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5kkOi00c1mFLzRGHsGIuUvp-4oXblmr-RxXtcteZ3EvwL-p3M4yu3TtA",Azul FM 103.9 Lagunas
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR24_S01AAC_SC
-#EXTINF:-1,La lider 99.1 FM - Tlacolula
+
+#EXTINF:-1 group-title="Tlacolula - Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe5Pjv3dz1f0O80OWKUNUekYYbDMquiUCnkErNOkK2IA",La lider 99.1 FM
 https://stream.zeno.fm/1ozriqxnwr0uv
-#EXTINF:-1,La Grandiosa 88.5 FM - Huajuapan
+
+#EXTINF:-1 group-title="Huajuapan - Oaxaca" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/010/la-grandiosa-885-fm.dff5ba3b.jpg",La Grandiosa 88.5 FM
 https://radiolagrandiosa.com/stream/huajuapan
-#EXTINF:-1,La Grandiosa Grupera 104.9 FM - Juxtlahuaca
+
+#EXTINF:-1 group-title="Juxtlahuaca - Oaxaca" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/540/la-grandiosa-1049-fm.52b4da9c.jpg",La Grandiosa Grupera 104.9 FM
 https://radiolagrandiosa.com/stream/juxtlahuaca
-#EXTINF:-1,El Heraldo 97.7 FM - Oaxaca
+
+#EXTINF:-1 group-title="Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd6486Dz8joiHzlQvW54rB5j-eX0UEBFSGVwF0tRS_wjQEIQst31BUZoVE",El Heraldo 97.7 FM
 https://stream.radiojar.com/ce31v3yah8nwv
-#EXTINF:-1,Los Ojos del Cielo 106.9 FM - Juxtlahuaca
+
+#EXTINF:-1 group-title="Juxtlahuaca - Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT85hkpSCB85FnwNaUmZqHFy0U6m9sB7kg9FKJU_XZmGsaq1b-RIdQSIYun",Los Ojos del Cielo 106.9 FM
 https://radiolagrandiosa.com/stream/ojosdelcielo
-#EXTINF:-1,Radio Nahndia 107.9 FM - Villa de Flores
+
+#EXTINF:-1 group-title="Villa de Flores - Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxEHz_DE5ExQFQfx69QmdnTWwtkSiueHJEBgtAoHDCYdnc-HGXmeR4198",Radio Nahndia 107.9 FM
 https://radios.yanapak.org/nahndiafm
-#EXTINF:-1,Radio Comunitaria Jënpoj 107.9 FM - Tlahuitoltepec
+
+#EXTINF:-1 group-title="Tlahuitoltepec - Oaxaca" tvg-logo="https://jenpojradio.info/radio/assets/logo.png",Radio Comunitaria Jënpoj 107.9 FM
 https://radios.mipanel.stream:6890/stream/1/
-#EXTINF:-1,La Estrella de Oaxaca 91.6
+
+#EXTINF:-1 group-title="Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZHlu2jIFX38jlgXiVbx8itsntHO3gHHKsSAfD89Egbi7eI41zXQr-SvI4",La Estrella de Oaxaca 91.6
 https://server3.sit-mexico.com:2199/proxy/estrelladeoaxaca916?mp=/stream
-#EXTINF:-1,La Mejor 101.7 FM - Oaxaca
+
+#EXTINF:-1 group-title="Oaxaca" tvg-logo="https://zenoimages.s3.us-west-001.backblazeb2.com/a7d3cea4-3f12-49b9-bfa9-0b3fe6373c3a/images/logo",La Mejor 101.7 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHZB.mp3
-#EXTINF:-1,Radio Blaseñita Stream - Oaxaca
+
+#EXTINF:-1 group-title="Oaxaca" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/765/radio-blasenita-romantica.6361414b.jpg",Radio Blaseñita Stream
 https://canada1.reliastream.com/proxy/aramirez?mp=/stream/1/
-#EXTINF:-1,Exa 98.5 FM - Oaxaca
+
+#EXTINF:-1 group-title="Oaxaca" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/229/exa-fm-oaxaca.a30bf07a.jpg",Exa 98.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHNR.mp3
-#EXTINF:-1,La Voz del Puerto 93.3 FM - Puerto Escondido
+
+#EXTINF:-1 group-title="Puerto Escondido - Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTww9r9DD_82H6KNTfF_riS5vBcMGRrFTQUbdQgLKUDoLKMiRZBhK18u1k",La Voz del Puerto 93.3 FM
 https://sp2.servidorrprivado.com/9681/stream/1/
 
 
-
-#EXTINF:-1,Orbita Digital 106.1 FM - Juchitán
 #EXTINF:-1,Somos Uno Radio 106.9 FM - Tlacolula
+
 #EXTINF:-1,G-POP 99.1 FM - Juxtlahuaca
+
 #EXTINF:-1,La Grandiosa 98.9 Fm - Nochixtlan
+
 #EXTINF:-1,Vox Love Station 90.1 FM - Juchitán 
-#EXTINF:-1,Radio Formula 93.7 FM - Oaxaca
-#EXTINF:-1,La Ke Buena 90.5 FM - Matías Romero Oaxaca
+
 #EXTINF:-1,ESTERO HUATULCO 103.1 FM - Huatulco
+
 #EXTINF:-1,Radio Crystal 102.3 FM - Huatulco
+
+#EXTINF:-1 group-title="Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr0GLj-F0oeFUxbCDL1Z3XGywuBJv-2LSCSjMEpvxvCX6bFzGmGraKSvaH",Radio Formula 93.7 FM
+http://ororadio3.serverroom.net:6778/;stream.ogg
+
+#EXTINF:-1 group-title="Matías Romero - Oaxaca" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/074/encuentro-radio-matias-romero.eb687dab.jpg",La Ke Buena 90.5 FM
+https://www.encuentroradiotv.com:8443/matias905.ogg
+
+#EXTINF:-1 group-title="Juchitán - Oaxaca" tvg-logo="https://radio-en-vivo-mx.com/storage/radios/14663/20749/conversions/orbita-digital-106-1-lg.webp",Orbita Digital 106.1 FM
+https://s2.mexside.net/8044/stream
+
+
