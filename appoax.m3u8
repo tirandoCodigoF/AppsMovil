@@ -138,13 +138,13 @@ https://mdstrm.com/audio/672cfbc1fdabb2c0423a7067/icecast.audio
 https://cast6.my-control-panel.com/proxy/airelib1/stream
 
 
-#EXTINF:-1 group-title="Tuxtepec - Oaxaca" tvg-logo="",Exa 101.3 FM
+#EXTINF:-1 group-title="Tuxtepec - Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmoBfo_sla5Gh1dSa_qf3wl9FdiKFUJMgfF0YOR8zfGYExBcYI7kFichuc",Exa 101.3 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXA_SC
 
-#EXTINF:-1 group-title="Tuxtepec - Oaxaca" tvg-logo="",Globo 96.9 FM
+#EXTINF:-1 group-title="Tuxtepec - Oaxaca" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/083/la-mejor-tuxtepec.a03d7da5.png",Globo 96.9 FM
 https://cast3.my-control-panel.com/proxy/universalfm/stream
 
-#EXTINF:-1 group-title="Tuxtepec - Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmoBfo_sla5Gh1dSa_qf3wl9FdiKFUJMgfF0YOR8zfGYExBcYI7kFichuc",La Mejor 106.5 FM
+#EXTINF:-1 group-title="Tuxtepec - Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAQMLgMVWfMuNLtpQt0RjigH84y7B4-h70H1PzAFd59NMifrlGAw9N4E75",La Mejor 106.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHXP_SC
 
 #EXTINF:-1 group-title="Tehuantepec - Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5kkOi00c1mFLzRGHsGIuUvp-4oXblmr-RxXtcteZ3EvwL-p3M4yu3TtA",Azul FM 103.9 Lagunas
@@ -200,7 +200,7 @@ https://sp2.servidorrprivado.com/9681/stream/1/
 #EXTINF:-1,Radio Crystal 102.3 FM - Huatulco
 
 #EXTINF:-1 group-title="Oaxaca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr0GLj-F0oeFUxbCDL1Z3XGywuBJv-2LSCSjMEpvxvCX6bFzGmGraKSvaH",Radio Formula 93.7 FM
-http://ororadio3.serverroom.net:6778/;stream.ogg
+http://ororadio3.serverroom.net:6778/stream
 
 #EXTINF:-1 group-title="Matías Romero - Oaxaca" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/074/encuentro-radio-matias-romero.eb687dab.jpg",La Ke Buena 90.5 FM
 https://www.encuentroradiotv.com:8443/matias905.ogg
