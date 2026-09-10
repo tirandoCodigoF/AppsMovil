@@ -1,54 +1,54 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/89285.v7.png" group-title="CDMX - MEXICO",La Mejor 97.7 FM
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/89285.v7.png" group-title="",La Mejor 97.7 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/XERCFM_SC
 
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/8248.v16.png" group-title="CDMX - MEXICO",La Ke Buena 92.9 FM
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/8248.v16.png" group-title="Cdmx - Mexico",La Ke Buena 92.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KEBUENA_SC
 
-#EXTINF:-1 tvg-logo="https://editorial.joya937.mx/wp-content/uploads/2021/09/sv_Notas.jpg" group-title="CDMX - MEXICO",Joya 93.7 FM
+#EXTINF:-1 tvg-logo="https://editorial.joya937.mx/wp-content/uploads/2021/09/sv_Notas.jpg" group-title="Cdmx - Mexico",Joya 93.7 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEJP_FMAAC_SC
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/329/alfa-913.163928d9.png" group-title="CDMX - MEXICO",Alfa 91.3 FM
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/329/alfa-913.163928d9.png" group-title="Cdmx - Mexico",Alfa 91.3 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHFAJ_FMAAC_SC
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/AvrZwexREf.jpg" group-title="CDMX - MEXICO",Amor 95.3 FM
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/AvrZwexREf.jpg" group-title="Cdmx - Mexico",Amor 95.3 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHSHFM_SC
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmdisyBzV3s7YW_n_yP1c7uMX4hqbgY_SkF0O6dVInjQ&s" group-title="CDMX - MEXICO",Exa FM 104.9
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmdisyBzV3s7YW_n_yP1c7uMX4hqbgY_SkF0O6dVInjQ&s" group-title="Cdmx - Mexico",Exa FM 104.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXA_SC
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzr7la-IPkaSrsZdAm5AQ0AV6OYYfNPQ7llPUlZfnicw" group-title="CDMX - MEXICO",La Z 107.3 FM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzr7la-IPkaSrsZdAm5AQ0AV6OYYfNPQ7llPUlZfnicw" group-title="Cdmx - Mexico",La Z 107.3 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEQR_FMAAC_SC
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/127/radio-disney-mexico.05990aaa.png" group-title="CDMX - MEXICO",Radio Disney 99.3 FM
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/127/radio-disney-mexico.05990aaa.png" group-title="Cdmx - Mexico",Radio Disney 99.3 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHFOFMAAC_SC
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHYvsjlnh43N8Mqll497quRekqbwMNssSPe2B7TExWKw" group-title="CDMX - MEXICO",Universal 88.1 FM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHYvsjlnh43N8Mqll497quRekqbwMNssSPe2B7TExWKw" group-title="Cdmx - Mexico",Universal 88.1 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHRED_FMAAC_SC
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/635/ke-buena-guadalajara.c0baa9ef.png" group-title="GUADALAJARA - JALISCO",La Ke Buena 97.1 FM
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/635/ke-buena-guadalajara.c0baa9ef.png" group-title="Guadalajara - Jalisco",La Ke Buena 97.1 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KEBUENA_GDL_SC
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcG44NbDYFoVkvLjk3mAgq40UZfIRI93JuIKJdY5bFazt8lmlW07Li3am7" group-title="GUADALAJARA - JALISCO",Los 40 Principales 102.7 FM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcG44NbDYFoVkvLjk3mAgq40UZfIRI93JuIKJdY5bFazt8lmlW07Li3am7" group-title="Guadalajara - Jalisco",Los 40 Principales 102.7 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_GDL_SC
 
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/f7/1d/f71da9415c517cf0152c832c9c8b8687.jpg" group-title="MONTERREY - NUEVO LEON",La Mejor 92.5 FM
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/f7/1d/f71da9415c517cf0152c832c9c8b8687.jpg" group-title="Monterrey - Nuevo Leon",La Mejor 92.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHSROFM_SC
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST3r5rygxUvbyRY7rYwjNms05Sv7H_olr9Q6hjviC3FMozXMwSuxgNsXM" group-title="MONTERREY - NUEVO LEON",Exa FM 97.3 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST3r5rygxUvbyRY7rYwjNms05Sv7H_olr9Q6hjviC3FMozXMwSuxgNsXM" group-title="Monterrey - Nuevo Leon",Exa FM 97.3 
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHRSMTYFM_SC
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-fOqMHIF8zJqJD-ZJfI0sDB858vZ9asgjyQD-g2YCABViDEAEO_SrwaM" group-title="MONTERREY - NUEVO LEON",Los Principales 40 88.5 FM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-fOqMHIF8zJqJD-ZJfI0sDB858vZ9asgjyQD-g2YCABViDEAEO_SrwaM" group-title="Monterrey - Nuevo Leon",Los Principales 40 88.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MTY_SC
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/758/amor-1033-fm.5c180c8c.png" group-title="PUEBLA - PUEBLA",Amor 103.3 FM
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/758/amor-1033-fm.5c180c8c.png" group-title="Puebla - Puebla",Amor 103.3 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHRHFMAAC_SC
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zLeRLNuTeJ.png" group-title="CDMX - MEXICO",Radio Fórmula 103.3 FM
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zLeRLNuTeJ.png" group-title="Cdmx - Mexico",Radio Fórmula 103.3 FM
 https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/61e1e0125e404b0836c1e402/playlist.m3u8?listeningSessionID=6a90d6eb1ced23a4_125088_LBnzl8Dt_dXMtYjQtcC1lLXFnMTItYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_00000008R2g&downloadSessionID=0&aid=602140ecd1277a077ef81b34&pid=9JNyaD1qKAepjqsAOGzHXseN9UwP3H8u&sid=50zHBAQYSqfKp4VvT9oiPl4VyyMDLEY0&uid=v5V41GSLpBoGFO6n5q0rU9zFmpKc3u0G&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1788088586778&ot=kN3M-VJbQjWtQ6DiupGoYA&proto=https&pz=us&cP=128000&awCollectionId=602140ecd1277a077ef81b34&aw_0_1st.playerId=website&liveId=61e1e0125e404b0836c1e402&referer=https%3A%2F%2Fwww.radio-en-vivo.mx%2F&propertyName=website&listenerId=v5V41GSLpBoGFO6n5q0rU9zFmpKc3u0G
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/836/beat-1009.5b1c16b4.png" group-title="CDMX - MEXICO",Beat 100.9 FM
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/836/beat-1009.5b1c16b4.png" group-title="Cdmx - Mexico",Beat 100.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHSONFM_SC
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/77b18faf-00b4-483d-bb24-377cdd4b4998" group-title="CDMX - MEXICO",Mix 106.5 FM
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/77b18faf-00b4-483d-bb24-377cdd4b4998" group-title="Cdmx - Mexico",Mix 106.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHDFMFM_SC
