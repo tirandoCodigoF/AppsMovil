@@ -1,88 +1,88 @@
 #EXTM3U
-# Baja California REAL FM/AM - 44 estaciones
-#EXTINF:-1 group-title="Tijuana - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/radio-latina-1045.png",Radio Latina 104.5 FM
-https://stream.zeno.fm/5h3e0z5x5hruv
-#EXTINF:-1 group-title="Tijuana - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/la-mejor-90-7-fm.png",La Mejor 90.7 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/XHTIM.mp3
-#EXTINF:-1 group-title="Tijuana - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/la-lupe-95-3-fm-tijuana.png",La Lupe 95.3 FM
-https://stream.zeno.fm/la-lupe-95-3-tijuana
-#EXTINF:-1 group-title="Tijuana - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/la-poderosa-860-am.png",La Poderosa 860 AM
-https://stream.zeno.fm/la-poderosa-860-am
-#EXTINF:-1 group-title="Tijuana - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/la-invasora-94-5-fm.png",La Invasora 94.5 FM
-https://stream.zeno.fm/la-invasora-94-5-tijuana
-#EXTINF:-1 group-title="Tijuana - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/w-radio.png",W Radio 1470 AM
-https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIOAAC.aac
-#EXTINF:-1 group-title="Tijuana - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/exa-fm-tijuana.png",Exa FM 91.7 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/XHGLXAAC.aac
-#EXTINF:-1 group-title="Tijuana - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/radio-ranchito-tijuana.png",Radio Ranchito 1420 AM
-https://stream.zeno.fm/radio-ranchito-tijuana
-#EXTINF:-1 group-title="Tijuana - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/radio-formula-950-am.png",Radio Formula 950 AM
-https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOFORMULA950.mp3
-#EXTINF:-1 group-title="Tijuana - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/fm-globo-99-3.png",FM Globo 99.3 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/FMGLOBO993.mp3
-#EXTINF:-1 group-title="Tijuana - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/more-fm-online.png",More FM 98.9 FM
-https://stream.zeno.fm/more-fm-98-9-tijuana
-#EXTINF:-1 group-title="Tijuana - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/amor-103-3-fm.png",Amor 103.3 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/XHITZHD2AAC.aac
-#EXTINF:-1 group-title="Tijuana - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/radio-zion-540-am.png",Radio Zion 540 AM
-https://stream.zeno.fm/radio-zion-540-am
-#EXTINF:-1 group-title="Tijuana - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/party-mix-fm-98-9-tijuana.png",Party Mix FM 98.9
-https://stream.zeno.fm/party-mix-98-9-tijuana
-#EXTINF:-1 group-title="Tijuana - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/buenisiima-850-am.png",Buenisiima 850 AM
-https://stream.zeno.fm/buenisiima-850-am
-#EXTINF:-1 group-title="Tijuana - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/norte-800-am-tijuana.png",Norte 800 AM
-https://stream.zeno.fm/norte-800-am-tijuana
-#EXTINF:-1 group-title="Tijuana - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/la-invasora-104-9.png",La Invasora 104.9 FM
-https://stream.zeno.fm/la-invasora-104-9
-#EXTINF:-1 group-title="Mexicali - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/los-40-mexicali.png",Los 40 Mexicali 90.7 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICALI.mp3
-#EXTINF:-1 group-title="Mexicali - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/el-sol-107-7-fm.png",El Sol 107.7 FM
-https://stream.zeno.fm/el-sol-107-7-mexicali
-#EXTINF:-1 group-title="Mexicali - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/la-invasora-99-7.png",La Invasora 99.7 FM
-https://stream.zeno.fm/la-invasora-99-7-mexicali
-#EXTINF:-1 group-title="Mexicali - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/imagen-mexicali-105-5-fm.png",Imagen Mexicali 105.5 FM
-https://stream.zeno.fm/imagen-105-5-mexicali
-#EXTINF:-1 group-title="Mexicali - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/radio-mexicana-910-am.png",Radio Mexicana 910 AM
-https://stream.zeno.fm/radio-mexicana-910-am
-#EXTINF:-1 group-title="Mexicali - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/fm-globo-101-9.png",FM Globo 101.9 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/FMGLOBO1019.mp3
-#EXTINF:-1 group-title="Mexicali - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/la-poderosa-mexicali.png",La Poderosa 98.3 FM
-https://stream.zeno.fm/la-poderosa-mexicali
-#EXTINF:-1 group-title="Mexicali - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/estereo-sol-101-1-fm.png",Estereo Sol 101.1 FM
-https://stream.zeno.fm/estereo-sol-101-1-mexicali
-#EXTINF:-1 group-title="Mexicali - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/la-dinamica-105-9-fm.png",La Dinamica 105.9 FM
-https://stream.zeno.fm/la-dinamica-105-9-mexicali
-#EXTINF:-1 group-title="Mexicali - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/exa-fm-mexicali.png",Exa FM 94.5 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/EXAMEXICALI.mp3
-#EXTINF:-1 group-title="Mexicali - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/w-radio-mexicali.png",W Radio 940 AM
-https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIOMEXICALI.mp3
-#EXTINF:-1 group-title="Mexicali - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/la-rocola-990-am.png",La Rocola 990 AM
-https://stream.zeno.fm/la-rocola-990-am-mexicali
-#EXTINF:-1 group-title="Mexicali - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/pulsar-107-3-fm.png",Pulsar 107.3 FM
-https://stream.zeno.fm/pulsar-107-3-mexicali
-#EXTINF:-1 group-title="Mexicali - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/uabc-radio.png",UABC Radio 104.1 FM
-https://stream.zeno.fm/uabc-radio-104-1-mexicali
-#EXTINF:-1 group-title="Ensenada - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/la-lupe-94-7-fm.png",La Lupe 94.7 FM
-https://stream.zeno.fm/la-lupe-94-7-ensenada
-#EXTINF:-1 group-title="Ensenada - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/la-mejor-103-3-fm.png",La Mejor 103.3 FM
-https://26423.live.streamtheworld.com/LAMEJORPARATI.mp3
-#EXTINF:-1 group-title="Ensenada - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/la-rancherita-89-1-fm-ensenada.png",La Rancherita 89.1 FM
-https://stream.zeno.fm/la-rancherita-89-1-ensenada
-#EXTINF:-1 group-title="Ensenada - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/la-rancherita-88-9-fm.png",La Rancherita 88.9 FM
-https://stream.zeno.fm/la-rancherita-88-9-ensenada
-#EXTINF:-1 group-title="Ensenada - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/vida-1370-am.png",Vida 1370 AM
-https://stream.zeno.fm/vida-1370-ensenada
-#EXTINF:-1 group-title="Ensenada - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/la-caliente-92-1-fm.png",La Caliente 92.1 FM
-https://stream.zeno.fm/la-caliente-92-1-ensenada
-#EXTINF:-1 group-title="Ensenada - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/la-chula-98-3-fm.png",La Chula 98.3 FM
-https://stream.zeno.fm/la-chula-98-3-ensenada
-#EXTINF:-1 group-title="Ensenada - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/exa-fm-ensenada.png",Exa FM 94.7 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/EXAENSENADA.mp3
-#EXTINF:-1 group-title="Ensenada - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/cadena-100-3.png",Cadena 100.3 FM
-https://stream.zeno.fm/cadena-100-3-ensenada
-#EXTINF:-1 group-title="Tecate - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/la-super-kt-88-5-fm.png",La Super KT 88.5 FM
-https://stream.zeno.fm/la-super-kt-88-5-tecate
-#EXTINF:-1 group-title="Rosarito - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/u-radio-690-am.png",U Radio 690 AM
-https://stream.zeno.fm/u-radio-690-am-rosarito
-#EXTINF:-1 group-title="San Quintin - Baja California" tvg-logo="https://www.radio-en-vivo.mx/images/xeqin-la-voz-del-valle.png",XEQIN La Voz del Valle 1160 AM
-https://stream.zeno.fm/xeqin-la-voz-del-valle
+# Baja California
+#EXTINF:-1 group-title="Tijuana - Baja California" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/165/radio-latina-1045.acd900b2.png",Radio Latina 104.5 FM
+https://mdstrm.com/audio/698f8c71e9899b0d0ceab9c0/icecast.audio
+#EXTINF:-1 group-title="Tijuana - Baja California" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/850/la-mejor-tijuana.a627c108.jpg",La Mejor 90.7 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHTIM_SC
+#EXTINF:-1 group-title="Tijuana - Baja California" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/240/exa-fm-tijuana.dc885881.png",Exa FM 91.7 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHGLX_SC
+#EXTINF:-1 group-title="Tijuana - Baja California" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/280/la-invasora-945-fm.037351c7.png",La Invasora 94.5 FM
+https://streamingcwsradio30.com:7023/stream
+#EXTINF:-1 group-title="Tijuana - Baja California" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/374/la-lupe-1025-fm.2387a236.png",La Lupe 95.3 FM
+https://mdstrm.com/audio/6737c55f827a7efae201a949/live.m3u8?property=mytunner
+#EXTINF:-1 group-title="Tijuana - Baja California" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/292/la-poderosa-860-am.548e5dc3.png",La Poderosa 860 AM
+https://streamingcwsradio30.com:7024/stream
+#EXTINF:-1 group-title="Tijuana - Baja California" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/447/fm-globo-993.2863bfef.png",FM Globo 99.3 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHOCL_SC
+#EXTINF:-1 group-title="Tijuana - Baja California" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/157/radio-ranchito-tijuana.719272dc.png",Radio Ranchito 1420 AM
+https://edge.mixlr.com/channel/lhkft
+#EXTINF:-1 group-title="Tijuana - Baja California" tvg-logo="https://static.mytuner.mobi/media/radios-150px/293/radio-formula-950-am.3b47bcc9.jpg",Radio Formula 950 AM
+https://n08.radiojar.com/nce1peen3p8uv
+#EXTINF:-1 group-title="Tijuana - Baja California" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/289/radio-zion-540-am.0053829f.png",Radio Zion 540 AM
+https://zionmultimedia.live/radio/8010/radio.mp3
+#EXTINF:-1 group-title="Tijuana - Baja California" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/657/adictiva-fm-989-tijuana.6b19740d.png",Party Mix 98.9 FM
+https://cast6.asurahosting.com/proxy/luisf/adictivafmtijuana
+#EXTINF:-1 group-title="Tijuana - Baja California" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/540/norte-800-am-tijuana.4929808a.png",Norte 800 AM
+https://cast6.asurahosting.com/proxy/norte/stream
+#EXTINF:-1 group-title="Tijuana - Baja California" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/296/la-super-kt-885-fm.7ae3d3ae.png",La Super KT 88.5 FM
+https://s2.mexside.net/8222/stream
+#EXTINF:-1 group-title="Tijuana - Baja California" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/877/los-40-principales-tijuana.6500b47f.png",El Sol 107.7 FM
+https://vsstreaming.com/8026/stream
+
+
+#EXTINF:-1 group-title="Mexicali - Baja California" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/569/ke-buena-mexicali.44112e6e.png",Buenisiima 850 AM
+https://sg.centrocibernetico.com/audiorama-xezf
+#EXTINF:-1 group-title="Mexicali - Baja California" tvg-logo="https://static.mytuner.mobi/media/radios-150px/150/la-mejor-mexicali.83eba3a8.jpg",La Mejor 103.3 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHVGFM_SC
+#EXTINF:-1 group-title="Mexicali - Baja California" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/224/exa-fm-mexicali.7f4f84a1.png",Exa FM 91.5 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHJCFM_SC
+#EXTINF:-1 group-title="Mexicali - Baja California" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/755/la-invasora-mexico.8d8d18e0.png",La Invasora 104.9 FM
+https://streamingcwsradio30.com/8076/stream
+#EXTINF:-1 group-title="Mexicali - Baja California" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/063/los-40-principales-mexicali.4ffb761b.jpg",Los 40 90.7 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICO2AAC_SC
+#EXTINF:-1 group-title="Mexicali - Baja California" tvg-logo="https://cdn.instant.audio/images/logos/emisoras-com-mx/la-poderosa-96-9-fm.png",La Poderosa 98.3 FM
+https://sg.centrocibernetico.com/poderosa969
+#EXTINF:-1 group-title="Mexicali - Baja California" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/550/w-radio-mexicali.593bc273.png",W Radio 940 AM
+https://streaming.servicioswebmx.com/8284/stream
+#EXTINF:-1 group-title="Mexicali - Baja California" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/325/fm-globo-1019.be535b1a.jpg",FM Globo 101.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHPFFM_SC
+#EXTINF:-1 group-title="Mexicali - Baja California" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/287/imagen-mexicali-1055-fm.46a8e4db.jpg",Imagen 105.5 FM
+https://mexicali.radio.wnsol.com/;stream.mp3
+#EXTINF:-1 group-title="Mexicali - Baja California" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/279/radio-mexicana-910-am.84a44b4f.png",Radio Mexicana 910 AM
+https://ss1.audiorama.com.mx:6598/stream
+#EXTINF:-1 group-title="Mexicali - Baja California" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/596/la-caliente-1017-fm.0a984e21.jpg",Estereo Sol 101.1 FM
+https://edge.mixlr.com/channel/gdjut
+#EXTINF:-1 group-title="Mexicali - Baja California" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/278/la-dinamica-1059-fm.25c76fc9.png",La Dinamica 105.9 FM
+https://sg.centrocibernetico.com/dinamica1059
+#EXTINF:-1 group-title="Mexicali - Baja California" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/281/la-rocola-990-am.9984dc12.png",La Rocola 990 AM
+https://stream.zeno.fm/bcbs57s5dkhvv
+#EXTINF:-1 group-title="Mexicali - Baja California" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/327/pulsar-1073-fm.34a150a6.png",Pulsar 107.3 FM
+https://streamingcwsradio30.com:7021/stream?nocache=1&type=http
+#EXTINF:-1 group-title="Mexicali - Baja California" tvg-logo="https://cdn.instant.audio/images/logos/emisoras-com-mx/uabc-mexicali.png",UABC Radio 104.1 FM
+https://envivo.uabc.mx/stream
+#EXTINF:-1 group-title="Mexicali - Baja California" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/285/vida-1370-am.be6c967f.png",Vida 1370 AM
+https://ss1.audiorama.com.mx:6596/;stream
+#EXTINF:-1 group-title="Mexicali - Baja California" tvg-logo="https://cdn.radoxo.com/images/mexico/power-98-jams.webp?v=1789005601",ower 98 Jams 98.3 FM
+https://s2.mexside.net/8220/stream
+#EXTINF:-1 group-title="Mexicali - Baja California" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/285/vida-1370-am.be6c967f.png",Vida 1370 AM
+https://ss1.audiorama.com.mx:6596/;stream
+
+
+#EXTINF:-1 group-title="Ensenada - Baja California" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/214/exa-fm-ensenada.0157b297.png",Exa FM 104.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHADA_SC
+#EXTINF:-1 group-title="Ensenada - Baja California" tvg-logo="https://cdn.regional-radios.app-mind.com/static/assets/images/ui/radio_placeholder.png",La Lupe 94.7 FM
+https://mdstrm.com/audio/672ce72c8997d8ee6a17c240/live.m3u8?property=mytunner
+#EXTINF:-1 group-title="Ensenada - Baja California" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/131/la-caliente-947-fm.06abf95f.jpg",La Caliente 92.1 FM
+https://mdstrm.com/audio/672cf749673e8a2bb4c6d5d2/live.m3u8?property=mytunner
+#EXTINF:-1 group-title="Ensenada - Baja California" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/269/la-rancherita-891.fd86980c.png",La Rancherita 89.1 FM
+https://rancherita.b-cdn.net/stream
+#EXTINF:-1 group-title="Ensenada - Baja California" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/881/la-chula-983-fm.031394d9.jpg",La Chula 98.7 FM
+https://sudominiohoy.com:18355/;stream.mp3
+#EXTINF:-1 group-title="Ensenada - Baja California" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/857/adictiva-fm-1003-ensenada.3c82b0db.png",La Calurosa FM 100.3
+https://cast2.my-control-panel.com/proxy/smashco1/stream
+
+
+#EXTINF:-1 group-title="San Quintin - Baja California" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/277/xeqin-la-voz-del-valle.4a392cb9.jpg",XEQIN La Voz del Valle 1160 AM
+https://radios.inpi.gob.mx:8080/xeqin
+#EXTINF:-1 group-title="San Quintin - Baja California" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/881/la-chula-983-fm.031394d9.jpg",La Chula 98.3 FM
+https://sudominiohoy.com:18352/;stream.mp3
