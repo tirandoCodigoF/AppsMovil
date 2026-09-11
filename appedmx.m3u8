@@ -1,0 +1,205 @@
+#EXTM3U
+#EXTINF:-1 group-title="Amatepec - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/la-inigualable.webp",La Inigualable 91.3 FM
+http://streaming.dinesat.com:7026/stream
+#EXTINF:-1 group-title="Amecameca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/la-voladora-radio.webp",La Voladora Radio 97.3 FM
+https://flujos.mazorca.org/lavoladora
+#EXTINF:-1 group-title="Amecameca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/mexiquense-radio-amecameca.webp",Mexiquense Radio Amecameca 91.7 FM
+https://streamingcwsradio30.com/8038/stream
+#EXTINF:-1 group-title="Atlacomulco de Fabela - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/cadena-azul-radio.webp",Cadena Azul Radio 95.7 FM
+https://01.solumedia.com.ar:10023/stream
+#EXTINF:-1 group-title="Atlacomulco de Fabela - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/radio-miled-atlacomulco-de-fabela.webp",Radio Miled Atlacomulco de Fabela 104.7 FM
+https://stereoatlaco-cybertec.radioca.st/stream.mp3
+#EXTINF:-1 group-title="Cacalomacán - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/la-bestia-grupera-cacalomacan.webp",La Nueva Bestia 103.7 FM
+https://ss1.audiorama.com.mx:6660/stream
+#EXTINF:-1 group-title="Capulhuac de Mirafuentes - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/xtrema-radio-xhsceh.webp",Xtrema Radio - XHSCEH 95.5 FM
+https://stream.zeno.fm/aa1b82ayqfhvv
+#EXTINF:-1 group-title="Chalco de Díaz Covarrubias - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/contacto-fm.webp",Contacto 98.9 FM
+https://stm11.xcast.com.br:9640/stream
+#EXTINF:-1 group-title="Chalco de Díaz Covarrubias - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/expresiones-xhscfe.webp",Expresiones - XHSCFE 100.5 FM
+https://sonicpanel.zonaradio.net:8180/stream
+#EXTINF:-1 group-title="Ciudad Nezahualcóyotl - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/andromeda-radio.webp",Andromeda Radio 95.5 FM
+https://streaming01.radiosenlinea.com.ar/9254/stream
+#EXTINF:-1 group-title="Huixquilucan - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/radio-anahuac-xeanah.webp",Radio Anáhuac - XEANAH 1670 AM
+https://stream.anahuac.mx/radioanahuac/live/playlist.m3u8
+#EXTINF:-1 group-title="Ixtapan de la Sal - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/fiesta-grupera-ixtapan.webp",Fiesta Grupera Ixtapan
+https://stream.zenolive.com/6w10zhf7schvv
+#EXTINF:-1 group-title="Ixtapan de la Sal - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/la-gruperacom.webp",La Grupera.com
+https://us3new.listen2myradio.com:2199/listen.php?port=8070&amp;type=s2&amp;mount=%2Fstream
+#EXTINF:-1 group-title="Ixtapan de la Sal - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/lokura-fm-grupera-ixtapan-de-la-sal.webp",Lokura FM Grupera Ixtapan de la Sal 99.5 FM
+https://mdstrm.com/audio/6939db1296af1fbe55715ce1/live.m3u8
+#EXTINF:-1 group-title="Ixtlahuaca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/llanura-radio.webp",Llanura Radio
+https://stm13.xcast.com.br:8416/stream.m3u/;
+#EXTINF:-1 group-title="Ixtlahuaca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/titan-radio.webp",Titán Radio
+https://stream.zeno.fm/spmatz6gu0quv
+#EXTINF:-1 group-title="Melchor Ocampo - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/crystal-melchor-ocampo.webp",Crystal Melchor Ocampo 103.7 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHEDTFMAAC.aac?dist=www_g7
+#EXTINF:-1 group-title="Melchor Ocampo - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/la-grupera-radio-mx.webp",La Grupera Radio Mx
+https://centova.hostingelectrica.net/proxy/grupera12?mp=/stream
+#EXTINF:-1 group-title="Melchor Ocampo - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/la-indomable.webp",La Indomable 89.9 FM
+https://radio.laindomableradio.com/listen/la_indomable_89.9_fm/radio.mp3
+#EXTINF:-1 group-title="Naucalpan de Juárez - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/alfa-y-omega.webp",Alfa y Omega
+https://sonicpanel.us/8006/stream
+#EXTINF:-1 group-title="Nicolás Romero - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/hunters-musik-radio.webp",Hunters Musik Radio
+https://stream.zeno.fm/e88fhqnsrk9uv
+#EXTINF:-1 group-title="San Martín de las Pirámides - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/neon-radio.webp",Neón Radio 93.5 FM
+https://stream.zeno.fm/skyq7kw2z5quv
+#EXTINF:-1 group-title="Tecámac - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/los-nostalgicos.webp",Los Nostálgicos
+https://stream.zeno.fm/53xdzhszfchvv
+#EXTINF:-1 group-title="Tecámac - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/utopia-radio.webp",Utopia Radio 99.1 FM
+https://streaming.servicioswebmx.com/8056/stream
+#EXTINF:-1 group-title="Tejupilco de Hidalgo - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/radio-roca.webp",Radio Roca 88.3 FM
+https://stream.zeno.fm/1qmwthwvwchvv
+#EXTINF:-1 group-title="Tenancingo de Degollado - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/crystal-tenancingo.webp",Crystal Tenancingo 104.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMLOFMAAC.aac?dist=www_g7
+#EXTINF:-1 group-title="Tenancingo de Degollado - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/la-jefanet.webp",La Jefa.net
+https://dj91.hostingnuclear.com:8042/stream
+#EXTINF:-1 group-title="Texcoco de Mora - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/la-adictiva-radio-texcoco.webp",La Adictiva Radio Texcoco 99.1 FM
+https://uk2freenew.listen2myradio.com/live.mp3?typeportmount=ice_31391_stream_695865340
+#EXTINF:-1 group-title="Texcoco de Mora - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/la-arrasante-radiocom.webp",La Arrasante Radio.com
+https://app.sonicpanelradio.com:7219/stream
+#EXTINF:-1 group-title="Texcoco de Mora - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/la-uni-k-893-fm.webp",La Uni-K 89.3 FM
+http://uk21freenew.listen2myradio.com:12007/;
+#EXTINF:-1 group-title="Texcoco de Mora - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/parrandeando-tv.webp",Parrandeando TV
+https://servidor37-3.brlogic.com:7174/live
+#EXTINF:-1 group-title="Texcoco de Mora - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/radio-chapingo.webp",Radio Chapingo 1130 AM
+https://edge.mixlr.com/channel/lqpis
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/roman-c-radio.webp",Afecto Radio
+https://stream.zeno.fm/amktabbqdceuv
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/al-son-de-tu-corazon.webp",Al Son De Tu Corazon 100.3 FM
+https://stream.zeno.fm/2ah5c74k09ctv
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/amor-toluca.webp",Amor Toluca 92.5 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHRJFM.mp3
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/bollocks-rock-amp-metal-radio.webp",BOLLOCKS Rock &amp; Metal Radio
+https://s44.myradiostream.com/6588/;
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/contigo-radio-mexico.webp",Contigo Radio Mexico
+https://stream.zeno.fm/sef7y7qa9yzuv
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/lokura-fm-rock.webp",Lokura FM Rock 89.3 FM
+https://mdstrm.com/audio/693996b47b445d0e91595211/live.m3u8
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/mexiquense-radio.webp",Mexiquense Radio 91.7 FM
+https://streamingcwsradio30.com/8094/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/mexiquense-radio-toluca-de-lerdo.webp",Mexiquense Radio Toluca de Lerdo 1600 AM
+https://streamingcwsradio30.com/8092/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/miled-music-mijares.webp",Miled Music - Mijares
+https://miledmusic94-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/miled-music-50s.webp",Miled Music 50's
+https://miledmusic75-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/miled-music-60s.webp",Miled Music 60's
+https://miledmusic76-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/miled-music-70s.webp",Miled Music 70's
+https://miledmusic77-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/miled-music-80s.webp",Miled Music 80’s
+https://miledmusic1-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/miled-music-90s.webp",Miled Music 90’s
+https://miledmusic2-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/miled-music-alternativo.webp",Miled Music Alternativo
+https://miledmusic25-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/miled-music-armando-manzanero.webp",Miled Music Armando Manzanero
+https://miledmusic100-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/miled-music-blues.webp",Miled Music Blues
+https://miledmusic13-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/miled-music-carlos-gardel.webp",Miled Music Carlos Gardel
+https://miledmusic201-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/miled-music-classic-rock.webp",Miled Music Classic Rock
+https://miledmusic11-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/miled-music-clasica.webp",Miled Music Clásica
+https://miledmusic10-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/miled-music-country.webp",Miled Music Country
+https://miledmusic14-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/miled-music-dance.webp",Miled Music Dance
+https://miledmusic41-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/miled-music-disco.webp",Miled Music Disco
+https://miledmusic26-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/miled-music-electro-house.webp",Miled Music Electro House
+https://miledmusic53-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/miled-music-electronica.webp",Miled Music Electrónica
+https://miledmusic6-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/miled-music-elvis-presley.webp",Miled Music Elvis Presley
+https://miledmusic46-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/miled-music-fernandez.webp",Miled Music Fernández
+https://miledmusic65-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/miled-music-funk.webp",Miled Music Funk
+https://miledmusic79-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/miled-music-hip-hop.webp",Miled Music Hip-Hop
+https://miledmusic9-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/miled-music-javier-solis.webp",Miled Music Javier Solís
+https://miledmusic60-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/miled-music-jazz.webp",Miled Music Jazz
+https://miledmusic7-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/miled-music-jorge-muniz.webp",Miled Music Jorge Muñiz
+https://miledmusic96-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/miled-music-jorge-negrete.webp",Miled Music Jorge Negrete
+https://miledmusic61-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/miled-music-jose-alfredo.webp",Miled Music José Alfredo
+https://miledmusic64-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/miled-music-jose-jose.webp",Miled Music José José
+https://miledmusic95-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/miled-music-juan-gabriel.webp",Miled Music Juan Gabriel
+https://miledmusic44-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/miled-music-latina.webp",Miled Music Latina
+https://miledmusic19-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/miled-music-marco-antonio-solis.webp",Miled Music M. Antonio Solís
+https://miledmusic99-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/miled-music-marco-antonio-muniz.webp",Miled Music Marco Antonio Muñiz
+https://miledmusic80-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/miled-music-navidena.webp",Miled Music Navideña
+https://miledmusic72-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/miled-music-oldies.webp",Miled Music Oldies
+https://miledmusic15-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/miled-music-pedro-infante.webp",Miled Music Pedro Infante
+https://miledmusic45-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/miled-music-pop.webp",Miled Music Pop
+https://miledmusic16-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/miled-music-rat-pack.webp",Miled Music Rat Pack
+https://miledmusic30-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/miled-music-soundtrack.webp",Miled Music Soundtrack
+https://miledmusic71-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/miled-music-the-beatles.webp",Miled Music The Beatles
+https://miledmusic68-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/miled-music-trance.webp",Miled Music Trance
+https://miledmusic105-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/miled-music-exitos-ingles.webp",Miled Music Éxitos Inglés
+https://miledmusic47-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/mix-fm-toluca.webp",Mix FM Toluca 90.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHENOFMAAC.aac
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/panda-fm-radio.webp",Panda FM Radio
+http://65.21.202.84:8301/;
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/crystal.webp",Radio Crystal 93.3 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHEDTFMAAC.aac
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/radio-disney-toluca.webp",Radio Disney Toluca 102.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHTOMFMAAC.aac
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/radio-herrera-news.webp",Radio Herrera News
+https://stream.zeno.fm/g1btnb8nffhvv
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/radio-miled.webp",Radio Miled 98.9 FM
+https://stereotoluca-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/tierra-kaliente.webp",Radio Tierra Kaliente
+https://s4.voscast.com/cdn/?k=6a902032c7ded&amp;m=;stream.mp3
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/ultra-radio-toluca.webp",Ultra 101.3 FM
+https://icecastultra.duckdns.org/livetol
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/uni-radio.webp",UniRadio 99.7 FM
+http://148.215.1.59:9000/UniRadio99.7FM
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/w-radio-toluca.webp",W Radio Toluca 102.9 FM
+https://streaming.servicioswebmx.com/8268/stream
+#EXTINF:-1 group-title="Toluca - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/xpectro-fm.webp",Xpectro FM
+https://stream20.usastreams.com:8068/stream
+#EXTINF:-1 group-title="Tultitlán de Mariano Escobedo - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/chono-radio.webp",Chono Radio
+https://server2.sit-mexico.com:2199/proxy/chonoradio?mp=/stream
+#EXTINF:-1 group-title="Tultitlán de Mariano Escobedo - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/la-chona-radio.webp",La Chona Radio
+https://server3.sit-mexico.com:2199/proxy/lachona?mp=/stream
+#EXTINF:-1 group-title="Tultitlán de Mariano Escobedo - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/mexiquense-radio-tultitlan.webp",Mexiquense Radio Tultitlán 1080 AM
+https://streamingcwsradio30.com/8100/stream
+#EXTINF:-1 group-title="Tultitlán de Mariano Escobedo - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/radio-cristiana-en-linea.webp",Radio Cristiana en Linea
+http://5.79.86.14:8268/stream/
+#EXTINF:-1 group-title="Valle de Bravo - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/mexiquense-radio-valle-de-bravo.webp",Mexiquense Radio Valle de Bravo 104.5 FM
+https://streamingcwsradio30.com/8096/stream
+#EXTINF:-1 group-title="Valle de Bravo - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/radio-miled-valle-de-bravo.webp",Radio Miled Valle de Bravo 93.5 FM
+https://stereovalle-cybertec.radioca.st/stream
+#EXTINF:-1 group-title="Valle de Bravo - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/super-stereo-miled-xevab.webp",Super Stereo Miled - XHEVAB 93.5 FM
+https://stereovalle-cybertec.radioca.st/stream.mp3
+#EXTINF:-1 group-title="Valle de Bravo - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/tutto-fritti-radio.webp",Tutto Fritti Radio
+https://s5.radio.co/s023fcdb7e/listen
+#EXTINF:-1 group-title="Xalatlaco - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/traviesa-1067-fm.webp",Traviesa 106.7 FM
+https://a10.asurahosting.com:8590/stream
+#EXTINF:-1 group-title="Zacualpan - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/la-voz-de-plata-1031-fm.webp",La Voz de Plata 103.1 FM
+https://lavozdeplata.radiored.net:8030/stream
+#EXTINF:-1 group-title="Zumpango de Ocampo - Estado de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/mexiquense-radio-zumpango.webp",Mexiquense Radio Zumpango 88.5 FM
+https://streamingcwsradio30.com/8098/stream
