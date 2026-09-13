@@ -471,7 +471,7 @@ https://stream.zeno.fm/fvszk566uc9uv
 https://s1.voscast.com:11511/stream
 #EXTINF:-1 group-title="Cdmx - Ciudad de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/oxue-libery-memory.webp",OXUE LIBERY MEMORY
 https://stream.zeno.fm/va6umfrbvnhvv
-#EXTINF:-1 group-title="Cdmx - Ciudad de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/oye-897.webp",Oye 89.7
+#EXTINF:-1 group-title="Cdmx - Ciudad de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/oye-897.webp",Oye 89.7 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEOYEFM_SC
 #EXTINF:-1 group-title="Cdmx - Ciudad de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/panda-pop-radio.webp",Panda Pop Radio
 http://65.21.202.84:8182/stream
@@ -1003,7 +1003,7 @@ https://ss1.audiorama.com.mx:6630/stream
 https://s2.yesstreaming.net:9094/stream
 #EXTINF:-1 group-title="Guadalajara - Jalisco" tvg-logo="https://cdn.radoxo.com/images/mexico/la-coyotera-radio-comunitaria-xhscdq.webp",La Coyotera Radio Comunitaria 102.3 FM
 https://streaming.servicioswebmx.com:7058/stream
-#EXTINF:-1 group-title="Guadalajara - Jalisco" tvg-logo="https://cdn.radoxo.com/images/mexico/la-lupe-guadalajara.webp",La Lupe - 99.9 FM
+#EXTINF:-1 group-title="Guadalajara - Jalisco" tvg-logo="https://cdn.radoxo.com/images/mexico/la-lupe-guadalajara.webp",La Lupe 99.9 FM
 https://mdstrm.com/audio/6737875eb61ca2fa731a2891/icecast.audio
 #EXTINF:-1 group-title="Guadalajara - Jalisco" tvg-logo="https://cdn.radoxo.com/images/mexico/la-mejor-guadalajara.webp",La Mejor 95.5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHRO_SC
