@@ -21,7 +21,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XERCFM_SC
 #EXTINF:-1 group-title="Cdmx - Ciudad de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/la-mejor-ruta-musical.webp",La Mejor Ruta Musical
 https://stream.zeno.fm/rky0f3k4w68uv
 #EXTINF:-1 group-title="Cdmx - Ciudad de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/panda-show-radio.webp",Panda Show Radio
-http://65.21.202.84:8062/;
+https://cast2.my-control-panel.com/proxy/pandashowradio/stream
 #EXTINF:-1 group-title="Cdmx - Ciudad de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/w-radio.webp",W Radio 900 AM 96.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIO_MEXICO_SC
 #EXTINF:-1 group-title="Cdmx - Ciudad de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/radio-formula-ciudad-de-mexico.webp",Radio Fórmula 103.3 FM 970 AM
@@ -519,7 +519,7 @@ https://stream.zeno.fm/va6umfrbvnhvv
 #EXTINF:-1 group-title="Cdmx - Ciudad de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/oye-897.webp",Oye 89.7 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEOYEFM_SC
 #EXTINF:-1 group-title="Cdmx - Ciudad de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/panda-pop-radio.webp",Panda Pop Radio
-http://65.21.202.84:8182/stream
+https://cast2.my-control-panel.com/proxy/pandapopradio/stream
 #EXTINF:-1 group-title="Cdmx - Ciudad de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/parakletos-radio-cristiana.webp",Parakletos Radio Cristiana
 https://stream.zeno.fm/t3zaituga5etv
 #EXTINF:-1 group-title="Cdmx - Ciudad de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/pikosita-radio.webp",Pikosita Radio
@@ -1629,7 +1629,7 @@ https://stereoatlaco-cybertec.radioca.st/stream.mp3
 #EXTINF:-1 group-title="Teotihuacán - Estado de México" tvg-logo="https://cdn.radoxo.com/images/mexico/neon-radio.webp",Neón Radio 93.5 FM
 https://stream.zeno.fm/skyq7kw2z5quv
 #EXTINF:-1 group-title="Toluca - Estado de México" tvg-logo="https://cdn.radoxo.com/images/mexico/panda-fm-radio.webp",Panda FM Radio
-http://65.21.202.84:8301/;
+https://cast2.my-control-panel.com/proxy/pandashowradio/stream
 #EXTINF:-1 group-title="Texcoco de Mora - Estado de México" tvg-logo="https://cdn.radoxo.com/images/mexico/parrandeando-tv.webp",Parrandeando TV
 https://servidor37-3.brlogic.com:7174/live
 #EXTINF:-1 group-title="Huixquilucan - Estado de México" tvg-logo="https://cdn.radoxo.com/images/mexico/radio-anahuac-xeanah.webp",Radio Anáhuac 1670 AM
@@ -2376,8 +2376,6 @@ https://cast4.my-control-panel.com/proxy/feelingmx1_mp3/stream
 https://cast4.my-control-panel.com/proxy/laestnetchannel2/stream
 #EXTINF:-1 group-title="Mexicali - Baja California" tvg-logo="https://cdn.radoxo.com/images/mexico/party-mix-1067-fm.webp",Party Mix 106.7 FM
 https://stream.radiojar.com/cprpe0qqzucwv
-#EXTINF:-1 group-title="Mexicali - Baja California" tvg-logo="https://cdn.radoxo.com/images/mexico/suena-fm.webp",Party Mix 106.7 FM
-https://n0a.radiojar.com/cprpe0qqzucwv
 #EXTINF:-1 group-title="Tijuana - Baja California" tvg-logo="https://cdn.radoxo.com/images/mexico/la-calurosa-989.webp",Party Mix 98.9 FM
 https://cast6.asurahosting.com/proxy/luisf/adictivafmtijuana
 #EXTINF:-1 group-title="Ensenada - Baja California" tvg-logo="https://cdn.radoxo.com/images/mexico/la-lupe-ensenada.webp",La Lupe 94.7 FM
