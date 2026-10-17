@@ -103,7 +103,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHMMFM_ADP.aac
 #EXTINF:-1 group-title="Cdmx - Ciudad de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/clasicos-fm-y-am.webp",Stereo Clásicos 98.1
 https://stream.zeno.fm/w5denwxmco2vv
 #EXTINF:-1 group-title="Cdmx - Ciudad de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/stereorey-mexico.webp",Stereorey México
-https://26183.live.streamtheworld.com/STEREOREYAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/STEREOREY_SC
 #EXTINF:-1 group-title="Cdmx - Ciudad de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/supernova-stereo.webp",Supernova Stereo
 https://www.grupoentornonoticias.online/listen/supernovastereo-cdmx/stream
 #EXTINF:-1 group-title="Cdmx - Ciudad de Mexico" tvg-logo="https://cdn.radoxo.com/images/mexico/universal-stereo-online.webp",Universal Stereo Online 88.1 FM
@@ -1450,15 +1450,6 @@ https://stream.zeno.fm/cu39x1hf12quv
 
 
 # =========================================
-# MÉXICO - 1 RADIOS
-# =========================================
-
-#EXTINF:-1 group-title="Tulum - México" tvg-logo="https://cdn.radoxo.com/images/mexico/radio-tulum.webp",Radio Tulum
-https://streaming.radio.co/s510dd57df/listen
-
-
-
-# =========================================
 # ESTADO DE MÉXICO - 102 RADIOS
 # =========================================
 
@@ -2756,6 +2747,11 @@ https://stream.miradio.in/proxy/t1027/stream
 https://eu4.fastcast4u.com/proxy/briznoxn/stream
 #EXTINF:-1 group-title="Playa del Carmen - Quintana Roo" tvg-logo="https://cdn.radoxo.com/images/mexico/xnavidad-radio.webp",XNavidad Radio
 https://eu4.fastcast4u.com/proxy/brizno/stream
+#EXTINF:-1 group-title="Tulum - Quintana Roo" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/350/tulum-fm-1047.470b1752.jpg",Tulum FM 104.7
+https://stream-068.zeno.fm/me482ext868uv
+#EXTINF:-1 group-title="Tulum - Quintana Roo" tvg-logo="https://cdn.radoxo.com/images/mexico/radio-tulum.webp",Radio Tulum
+https://streaming.radio.co/s510dd57df/listen
+
 
 
 
@@ -4560,7 +4556,7 @@ https://server3.sit-mexico.com:2199/proxy/sabrositamix?mp=/stream
 #EXTINF:-1 group-title="Aguascalientes - Aguascalientes" tvg-logo="https://cdn.radoxo.com/images/mexico/stereo-beam.webp",Stereo Beam
 https://a13.asurahosting.com/listen/stereo_beam/radio.mp3
 #EXTINF:-1 group-title="Aguascalientes - Aguascalientes" tvg-logo="https://cdn.radoxo.com/images/mexico/stereorey.webp",Stereorey 100.9
-https://14153.live.streamtheworld.com/STEREOREYAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHCAA_SC
 #EXTINF:-1 group-title="Aguascalientes - Aguascalientes" tvg-logo="https://cdn.radoxo.com/images/mexico/105-digital.webp",105 Digital 105.3 FM
 https://105digital.streaming.radiogrupo.com/
 #EXTINF:-1 group-title="Aguascalientes - Aguascalientes" tvg-logo="https://cdn.radoxo.com/images/mexico/alternativa-fm.webp",Alternativa 98 FM
@@ -5169,7 +5165,7 @@ https://radios.lunamedios.mx/8308/stream
 #EXTINF:-1 group-title="Colima - Colima" tvg-logo="https://cdn.radoxo.com/images/mexico/exa-997-colima.webp",Exa 99.7 FM
 https://17993.live.streamtheworld.com/XHCOCFM_SC
 #EXTINF:-1 group-title="Colima - Colima" tvg-logo="https://cdn.radoxo.com/images/mexico/la-mejor-colima.webp",La Mejor 92.5 FM
-https://rstream.hostdime.com/proxy/xhuu/stream
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHUUFM_SC
 #EXTINF:-1 group-title="Colima - Colima" tvg-logo="https://cdn.radoxo.com/images/mexico/estereo-vida-colima.webp",Estereo Vida 93.3 FM
 https://5fe2654d6127d.streamlock.net/colimaradiopap/videocolimaradiopap/playlist.m3u8
 #EXTINF:-1 group-title="Colima - Colima" tvg-logo="https://cdn.radoxo.com/images/mexico/imagen-radio-colima.webp",Imagen Radio 89.3 FM
@@ -5454,3 +5450,5 @@ https://s3.myradiostream.com/4640/listen.mp3
 https://sg.centrocibernetico.com/audiorama-xhkj
 #EXTINF:-1 group-title="Acapulco de Juárez - Guerrero" tvg-logo="https://cdn.radoxo.com/images/mexico/voces.webp",Voces 92.1
 https://sg.centrocibernetico.com/audiorama-xhacd
+
+
